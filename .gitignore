@@ -160,18 +160,6 @@ LARGE_Datasets
 # *** END OF FILES SPECIFIC TO ML Projects ****
 
 
-# FOR THIS REPO ONLY - I am excluding Jupyter Notebook so not to bulk up Netlify Build Folder
-.ipynb/
-*.ipynb
-/*.ipynb
-*/*.ipynb
-**/*.ipynb
-/.ipynb
-/.ipynb/*
-*/.ipynb/*
-
-
-
 # misc
 DS_Store/
 .DS_Store
